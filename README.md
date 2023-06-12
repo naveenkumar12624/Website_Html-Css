@@ -302,9 +302,6 @@ img {
 ![image](https://github.com/SOMEASVAR/Website/assets/93434149/f284099f-ae4f-41a7-974d-c0cdc42662d4)
 ![image](https://github.com/SOMEASVAR/Website/assets/93434149/504ec771-e536-4923-a58f-d8f891bdb08b)
 ![image](https://github.com/SOMEASVAR/Website/assets/93434149/e79ce252-2227-4a7b-a64b-5e59759a59a3)
-# GITHUB LINK:
-```
-https://github.com/SOMEASVAR/Website.git
-```
+
 # RESULT:
 Thus to create a commercial website using HTML & CSS is created successfully.
